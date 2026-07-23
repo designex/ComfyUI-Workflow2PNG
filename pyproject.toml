@@ -1,0 +1,12 @@
+[project]
+name = "comfyui-workflow2png"
+version = "1.0.0"
+description = "Export ComfyUI workflow canvas (nodes and connections) as PNG images with configurable scale (1X–5X). Provides toolbar buttons for exporting selected nodes/groups or the entire workflow."
+license = "MIT"
+requires-python = ">=3.10"
+
+[project.urls]
+Repository = "https://github.com/designex/comfyui-workflow2png"
+
+[tool.comfy]
+PublisherId = ""
