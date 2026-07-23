@@ -1,4 +1,5 @@
 # ComfyUI-Workflow2PNG
+<img width="1475" height="909" alt="image" src="https://github.com/user-attachments/assets/dfea4095-077f-448f-9218-79f1abf9049f" />
 
 一个纯前端的 ComfyUI 自定义节点插件，把工作流画布（节点、组、连线）导出为带透明背景的 PNG 图片。
 
@@ -15,6 +16,13 @@
 - **兼容老版本 ComfyUI**：支持 ComfyUI frontend >= 1.15.x，包括 1.28.8。
 
 ---
+
+## 右上角导出按钮（默认导出整个画布中的工作流，也可以选择指定节点或组框）
+<img width="2552" height="1308" alt="image" src="https://github.com/user-attachments/assets/e02823fc-0caf-4878-959f-0d673e1a2a53" />
+## 设置里面可以调整导出的倍数
+<img width="1846" height="1231" alt="image" src="https://github.com/user-attachments/assets/9f69d5c4-cf2b-4252-85d1-810418e43b1b" />
+## 选择指定节点或组框，画布空白处鼠标右键可以导出
+<img width="1741" height="1273" alt="image" src="https://github.com/user-attachments/assets/0aa5574c-c0b1-4446-8a6d-5223a22863c9" />
 
 ## 安装方法
 
